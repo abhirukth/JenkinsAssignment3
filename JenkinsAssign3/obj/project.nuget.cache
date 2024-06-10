@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoU1rrdJZFizGR1kDP8APi6VUg1n0+OhfHfQ7rb6HRoCAMt7ZuLgc3k8cB/t1kB4++n2l8IafZyKG/GjI7BcWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abchakravarthy\\abhirukth-chakravarthy\\DevOps\\JenkinsAssign3\\JenkinsAssign3\\JenkinsAssign3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\abchakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

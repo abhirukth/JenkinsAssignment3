@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JenkinsAssign3.props" />
+</Project>
